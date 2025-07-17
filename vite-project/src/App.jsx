@@ -1,12 +1,12 @@
 
-import React from 'react'
-import Paragraph from '../Paragraph'
+import { Background } from './Background'
 
-const App = () => {
+function App() {
   return (
-    <div>Paragraph</div>
+    <Background />
 
   )
+
 }
 
 export default App

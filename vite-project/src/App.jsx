@@ -1,15 +1,10 @@
 
-import Footer from "./Footer"
-
-function App() {
- 
-
-
+import React from 'react'
+import Paragraph from '../Paragraph'
 
 const App = () => {
   return (
-
-    <Footer />
+    <div>Paragraph</div>
 
   )
 }

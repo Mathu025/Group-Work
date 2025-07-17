@@ -1,14 +1,10 @@
 
-import React from 'react'
-import NavBar from './NavBar' 
+import Links from "./Links";
 
 function App() {
 
-
   return (
-    <>
-     <NavBar/> 
-    </>
+    <Links />
 
   )
 }
